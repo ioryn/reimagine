@@ -1,0 +1,12 @@
+/* Set the background color for the entire body */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* 100% viewport height */
+    background-color: #888; /* Light gray background color */
+}
+
+.logo-container {
+    width: 400px;
+}
